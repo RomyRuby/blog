@@ -16,11 +16,11 @@ hero:
 features:
   - title: 🍑 前端基础与进阶知识
     details: html-css，JavaScript，TypeScript、工程化、Node...
-    link: https://github.com/RomyRuby/blog
+    link: ./vue/diff
   - title: 🧀 前端框架深度剖析
     details: Vue源码与进阶、React原理...
-    link: https://github.com/RomyRuby/blog
+    link: ./vue/diff
   - title: 🥯 工具与专题方案
     details: ...
-    link: https://github.com/RomyRuby/blog
+    link: ./vue/diff
 ---

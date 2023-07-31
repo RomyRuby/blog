@@ -1,12 +1,9 @@
 import { resolve } from "path";
-import type { DefaultTheme } from "vitepress";
 import { defineConfig } from "vitepress";
 import { defaultSidebar } from "./defaultSidebar";
-import { generateFileSidebar } from "./file-sidebar";
 
 const r = (p: string) => resolve(__dirname, p);
 
-// generateFileSidebar(r('../useForm'))
 export default defineConfig({
   base: "/blog/",
   title: "💜 Romy's Blog",
