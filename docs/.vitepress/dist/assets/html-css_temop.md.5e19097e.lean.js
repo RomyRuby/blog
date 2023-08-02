@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.cc1c1bc6.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"html-css/temop.md","lastUpdated":null}'),s={name:"html-css/temop.md"};function o(r,c,n,p,m,d){return a(),e("div")}const i=t(s,[["render",o]]);export{_ as __pageData,i as default};
